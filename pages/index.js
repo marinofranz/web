@@ -23,7 +23,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Image draggable={false} className={classnames(styles.logo, styles.online)} src="/branding/MarinoSquareWh.png" alt="Marino Logo" width={150} height={150}></Image>
+        <Image priority={true} draggable={false} className={classnames(styles.logo, styles.online)} src="/branding/MarinoSquareWh.png" alt="Marino Logo" width={150} height={150}></Image>
         {/* eslint-disable-next-line react/no-unescaped-entities*/}
         <h1><span className={styles.lighter}>Hey, I'm</span> Marino</h1>
         <h2 className={[styles.lighter, styles.title].join(" ")}>Backend Developer</h2>
