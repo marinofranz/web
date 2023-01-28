@@ -10,6 +10,7 @@ const Contact: NextPage = () => {
         title="Contact - MarinoCodes"
         description="Marino's Portfolio"
         canonical="https://marino.codes"
+        themeColor="#000"
         openGraph={{
           type: "website",
           locale: "en_US",

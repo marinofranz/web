@@ -155,6 +155,7 @@ const Home: NextPage<Props> = ({ pinned }) => {
         title="MarinoCodes"
         description="Marino's Portfolio"
         canonical="https://marino.codes"
+        themeColor="#000"
         openGraph={{
           type: "website",
           locale: "en_US",
