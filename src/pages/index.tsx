@@ -112,18 +112,18 @@ const jobs: Job[] = [
     end: null,
   },
   {
+    name: "Airbridge Group",
+    position: "Team Lead",
+    href: "#",
+    start: "April 2023",
+    end: null,
+  },
+  {
     name: "PartydoosMedia Studios",
     href: "https://www.partydoosmedia.com",
     position: "Development Team",
     start: "November 2021",
-    end: null,
-  },
-  {
-    name: "Harmony",
-    position: "Development",
-    href: "https://weareharmony.net",
-    start: "July 2021",
-    end: "January 2023",
+    end: "June 2023",
   },
   {
     name: "REYFM",
