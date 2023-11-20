@@ -176,10 +176,8 @@ const Home: NextPage<Props> = ({ pinned }) => {
         <div className="space-y-4">
           <h1 className="text-5xl font-bold">Hey there, I'm Marino 👋</h1>
           <p className="opacity-90">
-            I am an Icelandic full-stack developer. Programming piques my
-            attention, and I find delight in writing code. Rather than frontend
-            programming, I am mostly interested in backend development. In
-            addition, I am quite interested in aviation.
+            I am an Icelandic (self-taught) full-stack developer. Programming and aviation piques my
+            attention. I am more proficient in backend development rather than frontend development.
           </p>
         </div>
 
@@ -187,11 +185,10 @@ const Home: NextPage<Props> = ({ pinned }) => {
           <h1 className="text-4xl font-bold">Aviation 🛫</h1>
           <p className="opacity-90">
             In addition to being a developer, I also enjoy flying and plan to
-            apply to a flight academy soon. I've been flying in flight
-            simulators both visually and with instruments, and it is truly
-            astonishing what an airplane is capable of. That's something; I've
-            also been practicing air traffic control simulation. As you can
-            undoubtedly tell, I have a great deal of interest in flying.
+            apply to a flight academy soon. I've been flying aircraft in flight
+            simulators, and it is truly astonishing what an airplane is capable of.
+            That's something; I've also been practicing air traffic control simulation.
+            As you can probably tell, I have a great deal of interest in aviation.
           </p>
         </div>
 
