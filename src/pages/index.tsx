@@ -105,8 +105,8 @@ const knowledge: Software[] = [
 
 const jobs: Job[] = [
   {
-    name: "Honky",
-    href: "https://honky.tools",
+    name: "Relatio",
+    href: "https://relatio.cc",
     position: "Project Manager",
     start: "December 2022",
     end: null,
